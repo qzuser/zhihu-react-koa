@@ -1,0 +1,52 @@
+[
+  {
+    "id": "quanzhan",
+    "topic": "全站",
+    "select": true
+  },
+  {
+    "id": "kexue",
+    "topic": "科学",
+    "select": true
+  },
+  {
+    "id": "shuma",
+    "topic": "数码",
+    "select": true
+  },
+  {
+    "id": "yingshi",
+    "topic": "影视",
+    "select": true
+  },
+  {
+    "id": "tiyu",
+    "topic": "体育",
+    "select": true
+  },
+  {
+    "id": "shishang",
+    "topic": "时尚",
+    "select": true
+  },
+  {
+    "id": "jiaodian",
+    "topic": "焦点",
+    "select": true
+  },
+  {
+    "id": "qiche",
+    "topic": "汽车",
+    "select": false
+  },
+  {
+    "id": "xiaoyuan",
+    "topic": "校园",
+    "select": false
+  },
+  {
+    "id": "shendu",
+    "topic": "深度",
+    "select": false
+  }
+]
