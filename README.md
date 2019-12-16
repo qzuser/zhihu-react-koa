@@ -1,9 +1,14 @@
 # zhihu-react-koa
 使用React+Koa2框架实现了知乎网站的部分功能。这是一个Restful风格的网站，包括知乎首页，新闻详情页，写文章页，登陆页。该项目技术栈为：  
+
 使用React hook编写函数组件来取代传统的class组件；  
+
 通过redux来进行状态管理，通过react-redux以简化redux的使用；  
+
 充分运用了社区优秀的组件，例如axios，redux-thunk，immutable.js，redux-immutable，styled-components，react-router-dom；  
+
 后端采用Koa2，使用了很多常见Koa模块，如jsonwebtoken，koa-router，koa-static等；  
+
 使用mango数据库存储数据，并借助mongoose模块查询数据库；  
 
 [前端演示](https://github.com/qzuser/zhihu-react-koa/blob/master/zhihu.gif)  
